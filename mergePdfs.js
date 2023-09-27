@@ -97,7 +97,6 @@ async function main(inputFolder, outputFolder) {
   }
 }
 
-// Usage: node mergePDFs.js input_folder output_folder
 const inputFolder = process.argv[2] || "input_files";
 const outputFolder = process.argv[3] || "output_files";
 
